@@ -9,7 +9,7 @@
           Working-Storage Section.
         77    Commission PIC 9(3).9(2).
         77    Sales pic 9(3).
-        77    salesman  pic 9(3).
+        77    salesman  pic 9(5).
         Procedure Division.
                 main-para.
                 Display "Pls Enter the salesman no".
