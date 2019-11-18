@@ -2,7 +2,7 @@
                 Program-id. Q2.
         Environment Division.
                 Configuration Section.
-                        Source-Computer. ICM PC.
+                        Source-Computer. IBM PC.
                         Object-Computer. IBM PC.
         Data Division.
           File Section.
