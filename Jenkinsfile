@@ -1,7 +1,7 @@
 node {
     stage 'Checkout'
 
-    checkout scm
+    checkout PHO0200A.cbl
 
     stage 'Gradle Static Analysis'
     withSonarQubeEnv {
