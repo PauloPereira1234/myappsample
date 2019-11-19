@@ -1,1 +1,1 @@
-
+- mvn sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=PauloPereira1234 -Dsonar.login=$Sonar
